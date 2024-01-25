@@ -1,0 +1,6 @@
+.bk-app-controller-container{display:none !important}
+
+.bk-app-controller-container::before {
+  font-weight: bold;
+  content: "This content is now available at www.evil.com";
+}
