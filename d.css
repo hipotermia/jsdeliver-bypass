@@ -3,4 +3,9 @@
 .bk-app-controller-container::before {
   font-weight: bold;
   content: "This content is now available at www.evil.com";
+    position: absolute;
+    top: 35%;
+    left: 35%;
+    font-size: 20px;
+    animation:spin 20s linear infinite;
 }
